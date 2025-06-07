@@ -1,5 +1,6 @@
 numpy==2.2.6
 Cython==3.1.1
+scipy==1.15.3
 altair==5.5.0
 attrs==25.3.0
 beautifulsoup4==4.13.4
@@ -34,7 +35,6 @@ peewee==3.18.1
 pillow==11.2.1
 platformdirs==4.3.8
 plotly==6.1.2
-pmdarima==2.0.4
 protobuf==6.31.1
 pyarrow==20.0.0
 pycparser==2.22
@@ -46,7 +46,6 @@ referencing==0.36.2
 requests==2.32.3
 rpds-py==0.25.1
 scikit-learn==1.7.0
-scipy==1.15.3
 setuptools==80.9.0
 six==1.17.0
 smmap==5.0.2
@@ -63,3 +62,4 @@ urllib3==2.4.0
 watchdog==6.0.0
 websockets==15.0.1
 yfinance==0.2.61
+pmdarima==2.0.4
