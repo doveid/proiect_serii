@@ -63,4 +63,3 @@ urllib3
 watchdog
 websockets
 yfinance
-pmdarima
