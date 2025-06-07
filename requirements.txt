@@ -1,4 +1,4 @@
---only-binary=scipy,numpy,scikit-learn,pandas,pmdarima
+--only-binary=scipy,numpy,scikit-learn,pandas
 numpy>=2.1.0
 scipy>=1.11.0
 pandas>=2.0.0
@@ -63,4 +63,4 @@ urllib3
 watchdog
 websockets
 yfinance
-pmdarima>=2.0.0
+pmdarima
